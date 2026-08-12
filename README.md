@@ -17,7 +17,7 @@
 
 ### 🧭 Sobre mim
 
-- 🏢 Analista de Sistemas — **ERP Sankhya** na J.S.F. Empreendimentos Florestais desde 01/2023
+- 🏢 Analista de Sistemas — **ERP Sankhya**
 - 🎓 MBA em Gestão Estratégica de TI · Pós em Ciência de Dados & IA · Pós em Engenharia de Dados
 - 🛠️ Automação de rotinas (Java, Python, JavaScript, SQL) integradas ao Sankhya ERP
 - ☁️ Administração de infraestrutura Oracle Cloud (OCI), Oracle DB e servidores Windows/Linux
