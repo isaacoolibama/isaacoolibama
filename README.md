@@ -46,8 +46,8 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=isaacoolibama&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacoolibama&layout=compact&theme=radical&hide_border=true&count_private=true" alt="top langs" />
+  <img src="https://img.shields.io/github/followers/isaacoolibama?style=for-the-badge&logo=github&color=8b5cf6&labelColor=171a33&label=Followers" alt="followers" />
+  <img src="https://img.shields.io/github/stars/isaacoolibama/anydesk-reset?style=for-the-badge&logo=github&color=facc15&labelColor=171a33&label=%E2%98%85%20anydesk-reset" alt="anydesk-reset stars" />
 </p>
 
 <p>
