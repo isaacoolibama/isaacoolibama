@@ -1,70 +1,78 @@
-<h1 align="center">Olá, eu sou o Isaac 👋</h1>
-<h3 align="center">Analista de Sistemas · ERP Sankhya · Dados & Automação</h3>
-
 <p align="center">
-  Gestor de TI por formação, atuando como Analista de Sistemas com foco no ecossistema
-  <strong>Sankhya</strong>, infraestrutura <strong>Oracle</strong>, automação e engenharia de dados.
-  Player 1 desde os tempos de Super Nintendo. 🎮
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:334155,100:38BDF8&height=200&section=header&text=Isaac%20Oolibama&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Analista%20de%20Sistemas%20%C2%B7%20A%C3%A7ail%C3%A2ndia%2C%20MA%20%C2%B7%20Brasil&descAlignY=52&descSize=18" />
 </p>
 
 <p align="center">
-  <a href="https://isaacoolibama.github.io"><img alt="Currículo" src="https://img.shields.io/badge/curr%C3%ADculo-isaacoolibama.github.io-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://linkedin.com/in/isaacoolibama"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-isaacoolibama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:isaac_oolibama@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-isaac__oolibama%40outlook.com-f472b6?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=High-Impact+Individual+Contributor+(HIC);Business-Driven+Technology+%C2%B7+ERP+Sankhya;Automa%C3%A7%C3%A3o+%C2%B7+Dados+%C2%B7+Agentic+AI;Infraestrutura+Oracle" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://isaacoolibama.github.io"><img src="https://img.shields.io/badge/Portfólio_Online-0f172a?style=for-the-badge&logo=vercel&logoColor=38BDF8" /></a>
+  <a href="https://linkedin.com/in/isaacoolibama"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:isaacors@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🧭 Sobre mim
 
-- 🏢 Analista de Sistemas — **ERP Sankhya**
-- 🎓 MBA em Gestão Estratégica de TI · Pós em Ciência de Dados & IA · Pós em Engenharia de Dados
-- 🛠️ Automação de rotinas (Java, Python, JavaScript, SQL) integradas ao Sankhya ERP
-- ☁️ Administração de infraestrutura Oracle Cloud (OCI), Oracle DB e servidores Windows/Linux
-- 🤖 Estudando e aplicando **Agentic AI** e IA Generativa no dia a dia
-- 📍 Açailândia — MA, Brasil
+Gestor de TI por formação e atuando como **Analista de Sistemas**, me posiciono como um **HIC (High-Impact Individual Contributor)**: profissional focado em gerar alto valor estratégico e ROI para o negócio através de inteligência analítica, engenharia de dados e automação avançada — otimizando processos e gerando insights diretos para a tomada de decisão.
 
-### 🧰 Stack
+- 🎯 **Atuação HIC:** Foco na resolução de problemas complexos do negócio, automação ponta a ponta e eficiência operacional sem a necessidade de gestão corporativa tradicional.
+- 🔭 **ERP & Ecossistema:** Especialista no ambiente **Sankhya ERP** desde 2023 (automações, integrações e regras de negócio).
+- 🎓 **Formação:** MBA em Gestão Estratégica de TI · Pós em Ciência de Dados & IA · Pós em Engenharia de Dados.
+- 🌱 **Foco Atual:** Arquitetura de **Agentic AI** e engenharia de prompt aplicadas a automações corporativas.
+- 📍 **Localização:** Açailândia — MA, Brasil.
+- ⚡ **Diferencial:** Transito com naturalidade entre a diretoria e o terminal (*Business-Driven Tech*).
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Sankhya%20ERP-171a33?style=flat-square">
-  <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=flat-square&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle%20Cloud%20(OCI)-F80000?style=flat-square&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-</p>
+---
 
-### 📊 GitHub Stats
+### 🛠️ Stack & Ferramentas
 
-<p>
-  <img src="https://img.shields.io/github/followers/isaacoolibama?style=for-the-badge&logo=github&color=8b5cf6&labelColor=171a33&label=Followers" alt="followers" />
-  <img src="https://img.shields.io/github/stars/isaacoolibama/anydesk-reset?style=for-the-badge&logo=github&color=facc15&labelColor=171a33&label=%E2%98%85%20anydesk-reset" alt="anydesk-reset stars" />
-</p>
+<div align="center">
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacoolibama&theme=radical&hide_border=true" alt="streak stats" />
-</p>
+<!-- Ícones Dinâmicos Core Tech -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,nodejs,react,nextjs,electron,postgres,docker,linux,git,postman,powershell&theme=dark&perline=7" />
+</a>
 
-### 🎮 Fora do teclado — Side Quests
+<br/><br/>
 
-Cresci entre cartuchos de **Super Nintendo** e **Nintendo 64** — *Super Mario Bros* e
-*Bomberman* ensinaram lógica e estratégia bem antes de qualquer curso de TI, e o **PS2**
-completou a infância. Hoje o controle virou teclado, mas o espírito de resolver puzzle e
-passar de fase continua o mesmo — só que em produção. 🍄🎮👾💿
+<!-- Badges de Domínio e Especialidades Corporativas -->
+![Sankhya ERP](https://img.shields.io/badge/🧩_Sankhya_ERP-1E293B?style=for-the-badge&logoColor=white)
+![APIs REST](https://img.shields.io/badge/🔌_APIs_REST-334155?style=for-the-badge&logoColor=white)
+![Oracle DB](https://img.shields.io/badge/🗄️_Oracle_DB-475569?style=for-the-badge&logoColor=white)
 
-### 📫 Como falar comigo
+<br/>
 
-<p>
-  <a href="https://isaacoolibama.github.io"><img src="https://img.shields.io/badge/Currículo%20completo-isaacoolibama.github.io-8b5cf6?style=flat-square"></a><br>
-  <a href="https://linkedin.com/in/isaacoolibama"><img src="https://img.shields.io/badge/LinkedIn-isaacoolibama-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:isaac_oolibama@outlook.com"><img src="https://img.shields.io/badge/Email-Enviar%20mensagem-f472b6?style=flat-square&logo=microsoftoutlook&logoColor=white"></a>
+![Agentic AI](https://img.shields.io/badge/🤖_Agentic_AI-2563EB?style=for-the-badge&logoColor=white)
+![Engenharia de Dados](https://img.shields.io/badge/📊_Engenharia_de_Dados-475569?style=for-the-badge&logoColor=white)
+![BI & Dashboards](https://img.shields.io/badge/📈_BI_%26_Dashboards-0EA5E9?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+### 🎮 Side Quests & Certificações
+
+- 🤖 **Nano Course em Agentes Autônomos (Agentic AI)** — FIAP (2026)
+- ☁️ **OCI Foundations Associate** — Oracle (2025)
+- 🏆 **13+ Certificações Complementares** — Oracle ONE · FIAP · Udemy
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacoolibama&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=2563EB&currStreakLabel=38BDF8" />
+
+</div>
+
+---
+
+<p align="center">
+  <sub>💡 <i>Currículo completo e interativo em <a href="https://isaacoolibama.github.io"><b>isaacoolibama.github.io</b></a></i></sub>
 </p>
