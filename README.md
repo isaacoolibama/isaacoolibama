@@ -80,13 +80,11 @@ Todo script de produção que escrevo segue quatro seções: **Backup · Execuç
 
 ---
 
-<div align="center">
+<p align="center">
+  <img alt="GitHub Streak" height="165" src="https://streak-stats.demolab.com/?user=isaacoolibama&theme=tokyonight&hide_border=true&background=0F172A&stroke=38BDF8&ring=38BDF8&fire=38BDF8" />
+  <img alt="Linguagens mais usadas" height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=isaacoolibama&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=FFFFFF&bg_color=0f172a" />
+</p>
 
-<img alt="Estatísticas do GitHub de Isaac Oolibama" height="160" src="https://github-readme-stats.vercel.app/api?username=isaacoolibama&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=FFFFFF&icon_color=38BDF8&bg_color=0F172A" />
-<img alt="Linguagens mais usadas" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacoolibama&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=FFFFFF&bg_color=0F172A" />
-
-<br/><br/>
-
-<sub>💡 Currículo completo em <a href="https://isaacoolibama.github.io"><b>isaacoolibama.github.io</b></a></sub>
-
-</div>
+<p align="center">
+  <sub>💡 Currículo completo em <a href="https://isaacoolibama.github.io"><b>isaacoolibama.github.io</b></a></sub>
+</p>
