@@ -25,15 +25,13 @@ Alguns resultados:
 | Automação de reajuste salarial coletivo | **~1500 colaboradores** processados via API Sankhya (Python) |
 | Tuning de JVM (WildFly / OCI) | Heap de 24 GB → 12 GB, eliminação de pressão de swap |
 | Expansão de campos fiscais (LC 214/2025) | **~70 tabelas** alteradas em produção com rollback validado |
-| Trigger de bloqueio de nota duplicada | Detecção sargable por faixa de data em `TGFCAB` |
-
-Todo script de produção que escrevo segue quatro seções: **Backup · Execução · Validação · Rollback**.
+| Triggers, procedures, functions | Detecção, investigação e melhorias das regras de negócio através de PL/SQL |
 
 ---
 
 ## 🚀 Estudos de caso
 
-> A maior parte do que desenvolvo é software interno de empresa e vive em repositório privado.
+> A maior parte do que desenvolvo é software interno entrega direta em produção.
 > Estes quatro repositórios abrem a **arquitetura e as decisões técnicas** de sistemas que estão
 > rodando em produção hoje — sem o código proprietário.
 
@@ -57,7 +55,7 @@ cadeia de fallback do DANFSe.
 
 ### 💰 [Reajuste Salarial em Massa](https://github.com/isaacoolibama/reajuste-salarial-case-study)
 
-App desktop que aplica o reajuste coletivo de **~1.500 colaboradores** no Sankhya Om,
+App desktop que aplica o reajuste coletivo de **todos os colaboradores** no Sankhya Om,
 com conferência antes de gravar e auditoria depois.
 
 `Tauri` `Rust` `Python 3.12` `Sankhya Om`
