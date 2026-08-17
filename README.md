@@ -9,77 +9,20 @@
   <img alt="Localização: Açailândia, MA" src="https://img.shields.io/badge/Açailândia,_MA-1E293B?style=flat-square&logo=googlemaps&logoColor=38BDF8" />
 </p>
 
-Analista de Sistemas com base em Administração. Trabalho onde o processo de negócio encosta no banco de dados: **ERP Sankhya, Oracle 19c, PL/SQL e automação**. Fora do horário, construo ferramentas desktop e utilitários que resolvem incômodos reais de quem administra máquinas Windows.
+**Gestor de TI** por formação, com base em **Administração de Empresas**, possuo Pós-Graduação em Ciência de Dados & AI, Engenharia de Dados, e MBA em Gestão Estratégica de TI, atuo como **Analista de Sistemas** a frente do setor de tecnologia, na melhoria continua de processos internos e externos da organização com parceiros, amigos e clientes.
 
-Também sou **professor-conteudista** no Bacharelado em Sistemas de Informação da FAVALE (EaD), onde escrevo material didático de Big Data, Teoria Geral de Sistemas e Inteligência Artificial.
-
----
-
-## 🚀 Projetos em destaque
-
-### 🦀 [WinLean](https://github.com/isaacoolibama/WinLean) · `Rust`
-
-Debloat, privacidade e performance para Windows 10/11. Interface nativa em Rust, **rollback por journal JSON** (toda alteração é reversível) e suporte PT/EN.
-
-> O diferencial é o journal: ferramentas de debloat costumam ser caminho sem volta. Aqui cada operação é registrada e pode ser desfeita.
-
-`Rust` · `Windows API` · `i18n`
+Também sou **professor-conteudista** no Bacharelado em Sistemas de Informação (EaD), onde escrevo material didático e produzo video-aulas contribuindo com o desenvolvimento de alunos do ensino superior.
 
 ---
 
-### 🖥️ [system-info-tool](https://github.com/isaacoolibama/system-info-tool) · `PowerShell`
+## 🏭 Projetos aplicáveis em produção
 
-[![Stars](https://img.shields.io/github/stars/isaacoolibama/system-info-tool?style=flat-square&color=38BDF8&labelColor=1E293B)](https://github.com/isaacoolibama/system-info-tool/stargazers)
-[![Forks](https://img.shields.io/github/forks/isaacoolibama/system-info-tool?style=flat-square&color=38BDF8&labelColor=1E293B)](https://github.com/isaacoolibama/system-info-tool/network/members)
-
-Coleta de informações de sistema em Windows para inventário e suporte técnico. O projeto com maior adoção da comunidade — usado por quem precisa levantar hardware e configuração de parque de máquinas sem instalar agente.
-
-`PowerShell` · `WMI/CIM` · `Automação de TI`
-
----
-
-### 🔑 [anydesk-reset](https://github.com/isaacoolibama/anydesk-reset) · `Python`
-
-Reset da identidade (ID) do AnyDesk no Windows. Nasceu de uma dor de suporte real: clonagem de máquinas gera IDs duplicados e quebra o acesso remoto.
-
-`Python` · `Registro do Windows` · `Suporte remoto`
-
----
-
-### 📊 [gcp-quiz](https://github.com/isaacoolibama/gcp-quiz) · `JavaScript`
-
-Aplicação de quiz educacional full-stack com autenticação, persistência e dashboard de desempenho. Construída para uma atividade de extensão universitária e usada em sala.
-
-`React` · `Vite` · `Tailwind` · `Firebase` · `Recharts` · `Vercel`
-
----
-
-<details>
-<summary><b>📦 Outros repositórios</b></summary>
-
-<br/>
-
-| Projeto | Stack | O que é |
-|---|---|---|
-| [isaacoolibama.github.io](https://github.com/isaacoolibama/isaacoolibama.github.io) | `HTML` `CSS` `JS` | Portfólio e currículo interativo |
-| [forumhub](https://github.com/isaacoolibama/forumhub) | `Java` `Spring` | API REST de fórum com autenticação |
-| [literalura](https://github.com/isaacoolibama/literalura) | `Java` | Catálogo de livros consumindo API externa |
-| [conversor-de-moedas](https://github.com/isaacoolibama/conversor-de-moedas) | `Java` | Conversor com cotação via API |
-| [amigo-secreto](https://github.com/isaacoolibama/amigo-secreto) | `JS` `CSS` | Sorteio de amigo secreto |
-| [jogo-numero-secreto](https://github.com/isaacoolibama/jogo-numero-secreto) | `HTML` `JS` | Jogo de adivinhação com voz |
-
-</details>
-
----
-
-## 🏭 O que não cabe no GitHub
-
-A parte mais pesada do meu trabalho roda em ambiente corporativo fechado. Alguns resultados:
+Alguns resultados:
 
 | Entrega | Resultado |
 |---|---|
 | Otimização de procedure de produção (Oracle) | De **8+ min com timeout** para **34 s** via indexação |
-| Automação de reajuste salarial coletivo | **~828 colaboradores** processados via API Sankhya (Python) |
+| Automação de reajuste salarial coletivo | **~1500 colaboradores** processados via API Sankhya (Python) |
 | Tuning de JVM (WildFly / OCI) | Heap de 24 GB → 12 GB, eliminação de pressão de swap |
 | Expansão de campos fiscais (LC 214/2025) | **~70 tabelas** alteradas em produção com rollback validado |
 | Trigger de bloqueio de nota duplicada | Detecção sargable por faixa de data em `TGFCAB` |
@@ -125,7 +68,7 @@ Todo script de produção que escrevo segue quatro seções: **Backup · Execuç
 
 **☁️ Cloud & Banco de Dados**
 
-- OCI Foundations Associate — Oracle (2025)
+- Certificação OCI Foundations Associate — Oracle (2025)
 - Administração, tuning e consultas avançadas em Oracle Database e PostgreSQL
 - Oracle Next Education (ONE) — Oracle/Alura
 
@@ -133,6 +76,7 @@ Todo script de produção que escrevo segue quatro seções: **Backup · Execuç
 
 - Especialização prática no ecossistema Sankhya ERP (customização, dicionário de dados, regras de negócio e bot de automação)
 - Mapeamento de processos de negócio, indicadores de desempenho (KPIs) e análise contábil/financeira
+- Melhoria de rotinas em todos os setores organizacionais, do operacional a diretoria
 
 ---
 
