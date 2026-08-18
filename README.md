@@ -111,8 +111,8 @@ expired` detectado e renovado via SSH.
 | **sankhya-xml-compras** | Lançamento de nota de compra a partir do Portal de XML, com padrões por parceiro. Tela própria sobre *view* Oracle espelhada, para contornar a limitação de botões de ação na tela nativa | `Java` `Oracle` `Sankhya` |
 | **emissao-nfse-portalnacional** | Biblioteca Python de emissão de NFS-e no Portal Nacional — DPS, assinatura XMLDSig, validação contra XSD oficiais, cancelamento, substituição, eventos e distribuição DF-e. Leiaute v1.01 | `Python 3.10+` `lxml` `cryptography` `httpx` |
 | **processador-nfse-portal-nacional-java** | CLI Spring Boot que consulta NFS-e por certificado digital, extrai XML via API SEFIN e gera DANFSe em PDF com mapa de rastreabilidade do lote | `Java 17` `Spring Boot` `mTLS` |
-| **Integração Ponto Eletrônico ↔ ERP** | Integração Java para o ERP: consulta a API de ponto, processa movimentos por período, atualiza equipes e registra execução em tabelas de log | `Java 8` `JAPE/ModelCore` |
-| **Cobrança de Notas Fiscais Pendentes** | Identifica e notifica sobre notas fiscais pendentes de ação no ERP | `Java` |
+| **integracao-pontotel-erp** | Integração Java para o ERP: consulta a API de ponto, processa movimentos por período, atualiza equipes e registra execução em tabelas de log | `Java 8` `JAPE/ModelCore` |
+| **notaspendentes-java** | Identifica e notifica sobre notas fiscais pendentes de ação no ERP | `Java` |
 
 </details>
 
@@ -123,11 +123,11 @@ expired` detectado e renovado via SSH.
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| **Gestão de Documentos Trabalhistas** | Plataforma híbrida (desktop + web) de gestão, versionamento e auditoria de documentos trabalhistas. Monorepo com API, worker de jobs e app | `Fastify` `TypeScript` `PostgreSQL 16` `Redis` `BullMQ` `Electron` `Docker` `PNPM Workspace` |
+| **documentos-trabalhistas-erp** | Plataforma híbrida (desktop + web) de gestão, versionamento e auditoria de documentos trabalhistas. Monorepo com API, worker de jobs e app | `Fastify` `TypeScript` `PostgreSQL 16` `Redis` `BullMQ` `Electron` `Docker` `PNPM Workspace` |
 | **gcp-gestao-compras-pagamentos** | Gestão do fluxo de compras e pagamentos por data e centro de resultado, com autenticação via ERP, anexos em armazenamento Samba e API própria como fonte oficial de dados | `Electron 35` `Next.js 15` `React 18` `TypeScript` `PostgreSQL` |
-| **Automação Financeira — PIX / Viagens** | Automação de lançamento de tarifas PIX e despesas de viagem no ERP, com auto-update embutido | `Next.js 14` `Electron 27` `TypeScript` |
+| **automacao-financeira-erp** | Automação de lançamento de tarifas PIX e despesas de viagem no ERP, com auto-update embutido | `Next.js 14` `Electron 27` `TypeScript` |
 | **planejamento-estrategico-gerador-sql** | Processa planilhas de planejamento estratégico e gera o SQL de inserção validado; núcleo Python com interface desktop | `Tauri` `React` `Python` |
-| **Processador de Holerites — OCR** | Processamento em lote de holerites: OCR extrai os dados, divide o PDF por funcionário e renomeia com base no cadastro do ERP | `Python` `OCR` `tkinter` `PyInstaller` |
+| **holerite-processor** | Processamento em lote de holerites: OCR extrai os dados, divide o PDF por funcionário e renomeia com base no cadastro do ERP | `Python` `OCR` `tkinter` `PyInstaller` |
 | **cadastro-processos-detran** | Painel de cadastro e acompanhamento de processos veiculares, com importação de dados de CRLV-e por OCR | `Next.js 16` `React 19` `Electron` `tesseract.js` `pdfjs-dist` |
 
 </details>
@@ -139,8 +139,8 @@ expired` detectado e renovado via SSH.
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| **Helpdesk via WhatsApp** | Helpdesk em que o colaborador abre chamado pelo WhatsApp e o analista atende por interface web, em tempo real, com protocolo rastreável e upload de mídia | `React` `Node.js` `PostgreSQL` `WebSockets` `JWT` `Docker` |
-| **Monitoramento e Alertas (ERP)** | Stack de monitoramento e alertas multicanal — [estudo de caso acima](https://github.com/isaacoolibama/monitoramento-alertas-case-study) | `Node.js 22` `Docker` `Uptime Kuma` |
+| **helpdesk-whatsapp** | Helpdesk em que o colaborador abre chamado pelo WhatsApp e o analista atende por interface web, em tempo real, com protocolo rastreável e upload de mídia | `React` `Node.js` `PostgreSQL` `WebSockets` `JWT` `Docker` |
+| **monitor-erp** | Stack de monitoramento e alertas multicanal — [estudo de caso acima](https://github.com/isaacoolibama/monitoramento-alertas-case-study) | `Node.js 22` `Docker` `Uptime Kuma` |
 | **conferencia-resistencia** | Plataforma devocional com liberação de conteúdo validada no servidor por fuso horário — o conteúdo futuro nunca chega ao navegador | `Next.js 16` `React 19` `TypeScript` `Tailwind 4` |
 
 </details>
