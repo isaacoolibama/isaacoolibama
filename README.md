@@ -99,6 +99,25 @@ expired` detectado e renovado via SSH.
 
 ---
 
+## 🌐 No ar
+
+### ⛰️ [Resistência — Hub de Liderança](https://conferencia-resistencia.vercel.app/)
+
+Plataforma devocional de uma conferência, com **111 dias de conteúdo** distribuídos em quatro
+ciclos mensais. A equipe caminha junto: cada dia abre a leitura do dia, com trilha instrumental
+própria e um cartão pronto para compartilhar nos stories.
+
+`Next.js 16` `React 19` `TypeScript` `Tailwind 4` `Framer Motion` `Vercel`
+
+**Destaques:** conteúdo `server-only`, com o mês futuro bloqueado tanto pela aba quanto pela URL
+direta · imagem de story 1080×1920 gerada sob demanda com `ImageResponse` · player instrumental
+sem vídeo, criado apenas após o consentimento de mídia externa e com retomada por faixa ·
+sem contas, sem formulários e sem analytics, com CSP e headers definidos no `next.config.ts`.
+
+🔗 **[conferencia-resistencia.vercel.app](https://conferencia-resistencia.vercel.app/)** · repositório privado
+
+---
+
 ## 🔒 Outros projetos privados
 
 <details open>
@@ -141,7 +160,6 @@ expired` detectado e renovado via SSH.
 |---|---|---|
 | **helpdesk-whatsapp** | Helpdesk em que o colaborador abre chamado pelo WhatsApp e o analista atende por interface web, em tempo real, com protocolo rastreável e upload de mídia | `React` `Node.js` `PostgreSQL` `WebSockets` `JWT` `Docker` |
 | **monitor-erp** | Stack de monitoramento e alertas multicanal — [estudo de caso acima](https://github.com/isaacoolibama/monitoramento-alertas-case-study) | `Node.js 22` `Docker` `Uptime Kuma` |
-| **conferencia-resistencia** | Plataforma devocional com liberação de conteúdo validada no servidor por fuso horário — o conteúdo futuro nunca chega ao navegador | `Next.js 16` `React 19` `TypeScript` `Tailwind 4` |
 
 </details>
 
