@@ -99,26 +99,6 @@ expired` detectado e renovado via SSH.
 
 ---
 
-## 🧪 Demonstração ao vivo
-
-### 🗂️ [Painel de Gestão de TI — Add-on Sankhya](https://isaacoolibama.github.io/demos/gestao-ti/)
-
-Add-on para o Sankhya Om que reúne o trabalho da equipe de TI em uma tela: **Kanban de
-demandas** em tempo real, **documentação técnica** com anexos e um **cofre de acessos** que
-avisa quando alguém desligado na folha ainda tem e-mail, pasta ou usuário ativo.
-
-`Java 8` `Sankhya Add-on Studio` `Oracle` `JavaScript` `HTML/CSS`
-
-**Destaques:** senhas em AES-256-GCM, decifradas só no servidor e nunca em listagens ou logs ·
-presença dos colegas e controle de versão contra edição simultânea · integração com o cPanel
-da HostGator para criar caixas e redirecionamentos a partir do cofre · exclusão sempre lógica
-e histórico de cada demanda (criação, edição, movimentação e exclusão).
-
-🔗 **[Abrir a demonstração](https://isaacoolibama.github.io/demos/gestao-ti/)** · a tela real
-do add-on rodando no navegador com dados fictícios · repositório privado
-
----
-
 ## 🌐 No ar
 
 ### ⛰️ [Resistência — Hub de Liderança](https://conferencia-resistencia.vercel.app/)
@@ -135,6 +115,22 @@ sem vídeo, criado apenas após o consentimento de mídia externa e com retomada
 sem contas, sem formulários e sem analytics, com CSP e headers definidos no `next.config.ts`.
 
 🔗 **[conferencia-resistencia.vercel.app](https://conferencia-resistencia.vercel.app/)** · repositório privado
+
+### 🗂️ [Painel de Gestão de TI — Add-on Sankhya](https://isaacoolibama.github.io/demos/gestao-ti/)
+
+Add-on para o Sankhya Om que reúne o trabalho da equipe de TI em uma tela: **Kanban de
+demandas** em tempo real, **documentação técnica** com anexos e um **cofre de acessos** que
+avisa quando alguém desligado na folha ainda tem e-mail, pasta ou usuário ativo.
+
+`Java 8` `Sankhya Add-on Studio` `Oracle` `JavaScript` `HTML/CSS`
+
+**Destaques:** senhas em AES-256-GCM, decifradas só no servidor e nunca em listagens ou logs ·
+presença dos colegas e controle de versão contra edição simultânea · integração com o cPanel
+da HostGator para criar caixas e redirecionamentos a partir do cofre · exclusão sempre lógica
+e histórico de cada demanda (criação, edição, movimentação e exclusão).
+
+🔗 **[Abrir a demonstração](https://isaacoolibama.github.io/demos/gestao-ti/)** · a tela real
+do add-on rodando no navegador com dados fictícios · repositório privado
 
 ---
 
